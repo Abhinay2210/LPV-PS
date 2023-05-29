@@ -1,0 +1,2 @@
+Move both the files - CalculatorWS, CalculatorClientWS to Home -> NetbeansProjects & open in netbeans
+Clean & build CalculatorClientWS. In CalculatorClientWS -> index.html run index.html
